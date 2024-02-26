@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Illia Dyrda",
+    "age": 21,
+    "email": "dyrdailya2002@gmail.com"
+  },
+  {
+    "id": 2,
+    "name": "Denis Zakharov",
+    "age": 21,
+    "email": "ddz@gmail.com"
+  },
+  {
+    "id": 3,
+    "name": "Gleb Negrun",
+    "age": 20,
+    "email": "ggn@example.com"
+  }
+]
